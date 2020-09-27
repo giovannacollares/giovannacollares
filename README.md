@@ -11,6 +11,6 @@
 
 
 
-<br><br><br><br>
+<br><br>
 <em><b> ✨Eu adoro conhecer pessoas novas e trocar conhecimentos,</b> então fique a vontade para entrar em contato comigo ✨</em>
 
