@@ -10,7 +10,7 @@
 
 <br><br>
 
-<em><b> ✨Eu adoro conhecer pessoas novas e trocar conhecimentos,</b> então fique a vontade para entrar em contato comigo ✨</em>
+<div align="right"> <em><b> ✨Eu adoro conhecer pessoas novas e trocar conhecimentos,</b> então fique a vontade para entrar em contato comigo ✨</em> </div>
 
 <br>
 
