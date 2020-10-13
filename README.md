@@ -10,7 +10,7 @@
 
 <em><b> ✨Eu adoro conhecer pessoas novas e trocar conhecimentos,</b> então fique a vontade para entrar em contato comigo ✨</em>
 
-<br><br>
+<br>
 
 [![Linkedin: giovannacollares](https://img.shields.io/badge/-giovannacollares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giovannacollares/)](https://www.linkedin.com/in/giovannacollares/)
 [![GitHub giovannacollares](https://img.shields.io/github/followers/giovannacollares?label=follow&style=social)](https://github.com/giovannacollares)
