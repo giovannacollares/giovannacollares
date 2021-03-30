@@ -1,6 +1,6 @@
 <h2>Hi there <img src="https://media2.giphy.com/media/fXc70o9YOnocc0j8QO/source.gif" width="40"></h2>
 
-<h3 align="center">I'm a Full Stack Developer from Rio de Janeiro, Brazil</h3>
+<h3 align="center">I'm a Full Stack Developer from Rio de Janeiro, Brazil <b> my pronouns are she/her</h3>
 <b>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannacollares&label=Profile%20views&color=0e75b6&style=flat" alt="giovannacollares" /> </p>
