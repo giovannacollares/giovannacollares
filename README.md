@@ -11,7 +11,7 @@
 
 - <img src="https://31.media.tumblr.com/tumblr_mdghlnkX3f1qdtfd6o1_400.gif" width="20px"> Know about my experiences on [LinkedIn](linkedin.com/in/giovannacollares)
 
-- <img src="https://media.tenor.com/images/813d1508b782824945a08bafa0252429/tenor.gif" width="20px">  Fun fact <strong>I'm a huge One Piece fan</strong>
+- <img src="https://media.tenor.com/images/813d1508b782824945a08bafa0252429/tenor.gif" width="20px">  Fun fact: <strong>I'm a huge One Piece fan</strong>
 
 <b> 
   
