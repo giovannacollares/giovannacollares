@@ -33,10 +33,10 @@
 
 <b><b><b>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannacollares&show_icons=true&locale=en&layout=compact" alt="giovannacollares" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannacollares&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="giovannacollares" /></p>
 
 <b>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannacollares&show_icons=true&locale=en" alt="giovannacollares" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giovannacollares&theme=gotham&show_icons=true&locale=en" alt="giovannacollares" /></p>
 
 
