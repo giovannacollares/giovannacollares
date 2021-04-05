@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Full Stack Developer from Rio de Janeiro, Brazil</h3>
 <b>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannacollares&label=Profile%20views&color=0e75b6&style=flat" alt="giovannacollares" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=giovannacollares&label=Profile%20views&color=0e75b6&style=flat" alt="giovannacollares" /> </p>
 
 - <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cf2836cb-5893-4a6c-b156-5a89d94fc721/dcphclj-ef0a915c-8c62-481e-bd8e-a2de4c1e1bb3.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvY2YyODM2Y2ItNTg5My00YTZjLWIxNTYtNWE4OWQ5NGZjNzIxXC9kY3BoY2xqLWVmMGE5MTVjLThjNjItNDgxZS1iZDhlLWEyZGU0YzFlMWJiMy5naWYifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.UzrowE4l8wYRKfqT_9Fl9XoU6awu0Fhz0g7iJ3o1J3M" width="20px"> I’m currently learning about <strong>DevOps</strong>
 
@@ -18,8 +18,11 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/giovannacollares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giovannacollares" height="30" width="40" /></a>
-<a href="https://instagram.com/giovanna.collares" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="giovanna.collares" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/giovannacollares" alt="Linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"  /> 
+  
+<a href="https://instagram.com/giovanna.collares" alt="Instagram">
+<img src="https://img.shields.io/badge/Instagram-EB3458?style=flat-square&logo=instagram&logoColor=white"  /> 
 </p>
 
 <b>
