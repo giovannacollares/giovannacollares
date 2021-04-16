@@ -20,10 +20,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/giovannacollares" alt="Linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"  /> 
-  
-<a href="https://instagram.com/giovanna.collares" alt="Instagram">
-<img src="https://img.shields.io/badge/Instagram-EB3458?style=flat-square&logo=instagram&logoColor=white"  /> 
-</p>
 
 <b>
   
